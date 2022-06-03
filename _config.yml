@@ -50,7 +50,7 @@ avatar: "/img/avatar.jpeg"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
-page-img: "/img/code.jpeg"
+# page-img: "/img/code.jpeg"
 
 # --- Footer options --- #
 
@@ -111,7 +111,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
